@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 595.3 841.9">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: OurQuinny, OurQuinny;
+        opacity: .2;
+      }
+
+      .st0, .st1 {
+        fill: #231f20;
+      }
+
+      .st0, .st2 {
+        font-size: 72px;
+      }
+
+      .st3, .st4 {
+        stroke-width: 6px;
+      }
+
+      .st3, .st4, .st2 {
+        fill: none;
+        stroke: #231f20;
+      }
+
+      .st4 {
+        font-family: Mega-Man-Battle-Network, 'Mega Man Battle Network';
+        font-size: 110px;
+      }
+
+      .st2 {
+        font-family: Code-8x8, 'Code 8x8';
+        stroke-miterlimit: 10;
+      }
+
+      .st5 {
+        display: none;
+      }
+
+      .st6 {
+        fill: #ffde17;
+        font-family: Arapix-Regular, Arapix-Regular;
+        font-size: 169px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" class="st5">
+    <text class="st4" transform="translate(30.6 436.1)"><tspan x="0" y="0">Brand</tspan><tspan x="56.4" y="160" xml:space="preserve">o  n  e</tspan></text>
+  </g>
+  <g id="Layer_3">
+    <g>
+      <path class="st3" d="M67.9,400.5v-99h45v9h9v27h-9v9h9v9h9v27h-9v9h-9v9h-45ZM103.9,337.5v-18h-18v18h18ZM103.9,382.5v-9h9v-9h-9v-9h-18v27h18Z"/>
+      <path class="st3" d="M139,400.5v-99h54v9h9v36h-9v9h-9v9h9v9h9v27h-18v-18h-9v-9h-9v-9h-9v36h-18ZM175,346.5v-9h9v-18h-27v27h18Z"/>
+      <path class="st3" d="M210.1,400.5v-72h9v-9h9v-9h9v-9h9v9h9v9h9v9h9v72h-18v-27h-27v27h-18ZM255.1,355.5v-18h-9v-9h-9v9h-9v18h27Z"/>
+      <path class="st3" d="M281.2,400.5v-99h18v9h9v9h9v9h9v-27h18v99h-18v-45h-9v-9h-9v-9h-9v63h-18Z"/>
+      <path class="st3" d="M352.3,400.5v-99h45v9h9v9h9v63h-9v9h-9v9h-45ZM388.3,382.5v-9h9v-45h-9v-9h-18v63h18Z"/>
+    </g>
+    <path class="st1" d="M487.8,401.5v-72h-18v-18h18v-9h18v99h-18Z"/>
+    <path class="st1" d="M491.8,437.1c-41.1,0-74.6-33.5-74.6-74.6v-21c0-41.1,33.5-74.6,74.6-74.6s74.6,33.5,74.6,74.6v21c0,41.1-33.5,74.6-74.6,74.6ZM491.8,272.9c-37.8,0-68.6,30.8-68.6,68.6v21c0,37.8,30.8,68.6,68.6,68.6s68.6-30.8,68.6-68.6v-21c0-37.8-30.8-68.6-68.6-68.6Z"/>
+  </g>
+  <g id="Layer_2" class="st5">
+    <text class="st6" transform="translate(56.9 141.2)"><tspan x="0" y="0">BrandOne</tspan></text>
+    <text class="st0" transform="translate(45.9 131.3)"><tspan x="0" y="0">BrandOne</tspan></text>
+    <text class="st2" transform="translate(42.8 122.9) scale(.8 1)"><tspan x="0" y="0">BrandOne</tspan></text>
+  </g>
+</svg>
