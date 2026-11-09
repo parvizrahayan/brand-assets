@@ -9,51 +9,38 @@
 
       .st0, .st1, .st2 {
         fill: none;
-        stroke-width: 3px;
-      }
-
-      .st0, .st2 {
-        stroke-miterlimit: 10;
-      }
-
-      .st1 {
-        font-size: 175.4px;
+        stroke-width: 6px;
       }
 
       .st1, .st2 {
-        font-family: Mega-Man-Battle-Network, 'Mega Man Battle Network';
+        stroke-miterlimit: 10;
       }
 
       .st2 {
-        font-size: 175.7px;
         stroke: #3e2f8c;
       }
     </style>
   </defs>
-  <g>
-    <rect class="st0" x="547.9" y="161.7" width="74.9" height="242.2"/>
-    <polygon class="st0" points="641.4 377 574.8 403.9 566.5 188.6 633.1 161.7 641.4 377"/>
-    <polygon class="st0" points="660 350 601.7 403.9 585.1 215.5 643.3 161.7 660 350"/>
-    <polygon class="st0" points="678.6 323.1 628.6 403.9 603.6 242.4 653.6 161.7 678.6 323.1"/>
-    <polygon class="st0" points="697.1 296.2 655.5 403.9 622.2 269.3 663.9 161.7 697.1 296.2"/>
-    <polygon class="st0" points="715.7 269.3 682.4 403.9 640.8 296.2 674.1 161.7 715.7 269.3"/>
-    <polygon class="st0" points="734.3 242.4 709.4 403.9 659.4 323.1 684.4 161.7 734.3 242.4"/>
-    <polygon class="st0" points="752.9 215.5 736.3 403.9 678 350 694.6 161.7 752.9 215.5"/>
-    <polygon class="st0" points="771.5 188.6 763.2 403.9 696.6 377 704.9 161.7 771.5 188.6"/>
-    <rect class="st0" x="715.2" y="161.7" width="74.9" height="242.2"/>
-  </g>
-  <g>
-    <rect class="st0" x="349.5" y="161.7" width="74.9" height="242.2"/>
-    <polygon class="st0" points="330.9 188.6 397.5 161.7 405.8 377 339.2 403.9 330.9 188.6"/>
-    <polygon class="st0" points="312.3 215.5 370.6 161.7 387.2 350 329 403.9 312.3 215.5"/>
-    <polygon class="st0" points="293.7 242.4 343.7 161.7 368.6 323.1 318.7 403.9 293.7 242.4"/>
-    <polygon class="st0" points="275.1 269.3 316.8 161.7 350 296.2 308.4 403.9 275.1 269.3"/>
-    <polygon class="st0" points="256.5 296.2 289.8 161.7 331.5 269.3 298.2 403.9 256.5 296.2"/>
-    <polygon class="st0" points="238 323.1 262.9 161.7 312.9 242.4 287.9 403.9 238 323.1"/>
-    <polygon class="st0" points="219.4 350 236 161.7 294.3 215.5 277.6 403.9 219.4 350"/>
-    <polygon class="st0" points="200.8 377 209.1 161.7 275.7 188.6 267.4 403.9 200.8 377"/>
-    <rect class="st0" x="182.2" y="161.7" width="74.9" height="242.2"/>
-  </g>
-  <text class="st1" transform="translate(67.5 403.9) scale(.7 1)"><tspan x="0" y="0">p</tspan></text>
-  <text class="st2" transform="translate(430.9 403.9) scale(.7 1)"><tspan x="0" y="0">m</tspan></text>
+  <rect class="st1" x="547.9" y="161.7" width="74.9" height="242.2"/>
+  <polygon class="st1" points="641.4 377 574.8 403.9 566.5 188.6 633.1 161.7 641.4 377"/>
+  <polygon class="st1" points="660 350 601.7 403.9 585.1 215.5 643.3 161.7 660 350"/>
+  <polygon class="st1" points="678.6 323.1 628.6 403.9 603.6 242.4 653.6 161.7 678.6 323.1"/>
+  <polygon class="st1" points="697.1 296.2 655.5 403.9 622.2 269.3 663.9 161.7 697.1 296.2"/>
+  <polygon class="st1" points="715.7 269.3 682.4 403.9 640.8 296.2 674.1 161.7 715.7 269.3"/>
+  <polygon class="st1" points="734.3 242.4 709.4 403.9 659.4 323.1 684.4 161.7 734.3 242.4"/>
+  <polygon class="st1" points="752.9 215.5 736.3 403.9 678 350 694.6 161.7 752.9 215.5"/>
+  <polygon class="st1" points="771.5 188.6 763.2 403.9 696.6 377 704.9 161.7 771.5 188.6"/>
+  <rect class="st1" x="715.2" y="161.7" width="74.9" height="242.2"/>
+  <rect class="st1" x="349.5" y="161.7" width="74.9" height="242.2"/>
+  <polygon class="st1" points="330.9 188.6 397.5 161.7 405.8 377 339.2 403.9 330.9 188.6"/>
+  <polygon class="st1" points="312.3 215.5 370.6 161.7 387.2 350 329 403.9 312.3 215.5"/>
+  <polygon class="st1" points="293.7 242.4 343.7 161.7 368.6 323.1 318.7 403.9 293.7 242.4"/>
+  <polygon class="st1" points="275.1 269.3 316.8 161.7 350 296.2 308.4 403.9 275.1 269.3"/>
+  <polygon class="st1" points="256.5 296.2 289.8 161.7 331.5 269.3 298.2 403.9 256.5 296.2"/>
+  <polygon class="st1" points="238 323.1 262.9 161.7 312.9 242.4 287.9 403.9 238 323.1"/>
+  <polygon class="st1" points="219.4 350 236 161.7 294.3 215.5 277.6 403.9 219.4 350"/>
+  <polygon class="st1" points="200.8 377 209.1 161.7 275.7 188.6 267.4 403.9 200.8 377"/>
+  <rect class="st1" x="182.2" y="161.7" width="74.9" height="242.2"/>
+  <path class="st0" d="M67.5,403.9v-241.2h92.1v21.9h15.3v87.7h-15.3v21.9h-15.3v21.9h-46v87.7h-30.7ZM128.9,272.3v-21.9h15.3v-43.9h-46v65.8h30.7Z"/>
+  <path class="st2" d="M430.9,403.9v-241.6h15.4v22h15.4v22h15.4v22h15.4v-22h15.4v-22h15.4v-22h15.4v241.6h-30.7v-131.8h-15.4v22h-15.4v-22h-15.4v131.8h-30.7Z"/>
 </svg>
